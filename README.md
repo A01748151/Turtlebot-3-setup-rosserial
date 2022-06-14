@@ -10,7 +10,7 @@ The project will follow this order:
 ## Installation of Arduino IDE in linux Ubuntu
 #### Update packages
 $ sudo apt-get update\
-$ sudo apt-get upgrade\
+$ sudo apt-get upgrade
 
 #### Download arduino IDE and extract it from https://www.arduino.cc/en/Main/Software
 Another procedure to do this step is to paste the following commands in the terminal:
