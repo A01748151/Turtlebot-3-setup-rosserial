@@ -1,10 +1,10 @@
 # Turtlebot-3-setup-rosserial
 
 In this project will be explained the process for configurating ubuntu software to comunicate with turtlebot3 by using rosserial.
-The project will follow this order:\
-1. Installation of Arduino IDE on linux Ubuntu\
-2. Installation of the rosserial Ubuntu\
-3. Installation of dinamixels and further configuration\
+The project will follow this order:
+1. Installation of Arduino IDE on linux Ubuntu
+2. Installation of the rosserial Ubuntu
+3. Installation of dinamixels and further configuration
 
 
 ## Installation of Arduino IDE in linux Ubuntu
