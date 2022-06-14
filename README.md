@@ -7,7 +7,7 @@ The project will follow this order:
 3. Installation of dinamixels and further configuration
 
 
-##Installation of Arduino IDE in linux Ubuntu
+## Installation of Arduino IDE in linux Ubuntu
 #### Update packages
 $ sudo apt-get update
 $ sudo apt-get upgrade
